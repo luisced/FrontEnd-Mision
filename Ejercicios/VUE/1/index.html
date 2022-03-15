@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vue Intro</title>
+</head>
+<body>
+
+    
+    
+    <div id="app">
+        <img v-bind:src="foto" alt="Foto de perfil">
+        <h1>
+            {{ nombre }} {{ apellido }}
+        </h1>
+        <h2>
+            Email: {{ email }}
+            <button v-on:click="cambiarUsuario">Tener un usuario random</button>
+        </h2>
+    </div>
+    
+    <script src="https://unpkg.com/vue@3"></script>
+    <script src="./app.js"></script>
+
+    (div>p>h1>h2>button)
+    
+</body>
+</html>

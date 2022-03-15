@@ -1,0 +1,22 @@
+:root {
+	--main-color: #ff0000;
+	--main-color-rgb: 255, 0, 0;
+	--main-color-rgba: 255, 0, 0, 1;
+	--main-color-hex: #ff0000;
+	--main-color-hsl: 0, 100%, 50%;
+	--main-color-hsl-a: 0, 100%, 50%, 1;
+	--main-color-hsl-a-hex: #ff0000;
+	--main-color-hsl-a-hsl: 0, 100%, 50%, 1;
+	--main-color-hsl-a-hsl-a: 0, 100%, 50%, 1;
+	--main-color-hsl-a-hsl-a-hex: #ff0000;
+	--main-color-hsl-a-hsl-a-hsl: 0, 100%, 50%, 1;
+	--main-color-hsl-a-hsl-a-hsl-a: 0, 100%, 50%, 1;
+	--main-color-hsl-a-hsl-a-hsl-a-hex: #ff0000;
+	--main-color-hsl-a-hsl-a-hsl-a-hsl: 0, 100%, 50%, 1;
+	--main-color-hsl-a-hsl-a-hsl-a-hsl-a: 0, 100%, 50%, 1;
+	--main-color-hsl-a-hsl-a-hsl-a-hsl-a-hex: #ff0000;
+	--main-color-hsl-a-hsl-a-hsl-a-hsl-a-hsl: 0, 100%, 50%, 1;
+	--main-color-hsl-a-hsl-a-hsl-a-hsl-a-hsl-a: 0, 100%, 50%, 1;
+	--main-color-hsl-a-hsl-a-hsl-a-hsl-a-hsl-a-hex: #ff0000;
+	--main-color-hsl-a-hsl-a-hsl-a-hsl-a-hsl-a-hsl: 0, 100%, 50%, 1;
+}
